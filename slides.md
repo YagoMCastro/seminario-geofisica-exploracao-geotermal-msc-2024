@@ -242,6 +242,28 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
+# Relação Condutividade-Temperatura
+  - Em altas temperaturas:
+    `\[
+    σ = σ_i \, \exp\left(-\frac{E_i}{\kappa T}\right)
+    \]`   
+    - \( σ \): condutividade elétrica
+    - \( T \): temperatura (K)
+    - \( $\kappa$ \): constante de Boltzmann
+    - \( E_i \): energia de ativação
+    - \( $σ_i$ \): constante dependente do mecanismo de condução (impurezas, intrínseco ou iônico).
+
+===============================================================================
+# Relação Condutividade-Temperatura
+  - Em altas temperaturas:
+    `\[
+    σ = σ_i \, \exp\left(-\frac{E_i}{\kappa T}\right)
+    \]`
+
+- **Importante**: A condução sólida em minerais torna-se irrelevante a temperaturas **abaixo de 700 °C**.
+
+===============================================================================
+
 # Maths
 
 This is an inline $\int_a^b x^2 dx$ and $\delta g = g - \gamma$:
