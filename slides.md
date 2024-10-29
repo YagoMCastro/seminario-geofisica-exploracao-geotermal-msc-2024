@@ -86,13 +86,17 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
       <ul class="text-left">
         <li class="text-left"><b>Componentes:</b> Fonte de calor, água subterrânea para transporte de calor, reservatório selado</li>
         <li class="text-left"><b>Características Associadas:</b> Controles tectônicos</li>
+        <li> Em alguns recursos geotermais de alta temperatura associados ao vulcanismo, <b>não há uma camada selamento</b></li>
+        <ul>
+          <li>Os reservatórios são sistemas ativos, com entrada e saída de calor e fluido, mantendo um <b>quase-equilíbrio estático</b> com o ambiente</li>
+        </ul>
       </ul>
 
   </div>
 
   </div>
 
-  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
+  <div class=" col tiny grid" style="  justify-content: center; align-items: center;">
     <img src="assets//geothermal-system.png">
   </div>
 </div>
@@ -112,55 +116,29 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
   <div class="col">
     <div class=" text-left small">
         <ul class="text-left">
-        <li> Em alguns recursos geotérmicos de alta temperatura associados ao vulcanismo, <b>não há uma camada selamento</b></li>
-        <ul>
-          <li>Os reservatórios são sistemas ativos, com entrada e saída de calor e fluido, mantendo um <b>quase-equilíbrio estático</b> com o ambiente</li>
+          <li> A <b>alteração argílica</b> geralmente encontrada na superfície dos reservatórios tende a reduzir a permeabilidade, mas <b>não impede a circulação completa do sistema</b></li>
+          <li> A maioria dos sistemas geotermais dominados por líquidos de alta temperatura é caracterizada por uma circulação convectiva única. <b>O fluido meteórico não recircula</b> (T.G. Caldwell, comunicação pessoal, 2001).
         </ul>
     </div>
   </div>
-  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
+  <div class=" col tiny grid" style="  justify-content: center; align-items: center;">
     <img src="assets//geothermal-system.png">
   </div>
 </div>
 
 <div class="footnote tiny">
 
-[Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
-
-</div>
-
-===============================================================================
-# Configuração Geológica dos Sistemas Geotermais
-
-<div class="row">
-  <div class="col">
-  <div class=" text-left small">
-      <ul class="text-left">
-        <li> A <b>alteração argílica</b> geralmente encontrada na superfície dos reservatórios tende a reduzir a permeabilidade, mas <b>não impede a circulação completa do sistema</b></li>
-        <li> A maioria dos sistemas geotérmicos dominados por líquidos de alta temperatura é caracterizada por uma circulação convectiva única. <b>O fluido meteórico não recircula</b> (T.G. Caldwell, comunicação pessoal, 2001).
-      </ul>
-
-  </div>
-
-  </div>
-
-  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
-    <img src="assets//geothermal-system.png">
-  </div>
-</div>
-
-<div class="footnote tiny">
   [Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
+
 </div>
 
 ===============================================================================
 # Tipos de Recursos Geotermais
 
-
-  <ul class="text-left">
-    <li class="text-left">Recursos Hospedados em Sedimentos Não Vulcânicos</li>
-    <li class="text-left">Recursos Associados a Magmas/Vulcanismo</li>
-  </ul>
+<ul class="text-left">
+  <li class="text-left">Recursos Hospedados em Sedimentos Não Vulcânicos</li>
+  <li class="text-left">Recursos Associados a Magmas/Vulcanismo</li>
+</ul>
 
 ===============================================================================
 
@@ -217,7 +195,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# Características Específicas dos Sistemas Geotérmicos Associados a Ambientes Vulcânicos de Alta Temperatura
+# Características Específicas dos Sistemas Geotermais Associados a Ambientes Vulcânicos de Alta Temperatura
 - Alteração hidrotermal de **argila** em rochas vulcânicas recentes.
 - Presença de **águas geotérmicas levemente ácidas e salinas**.
 - **Altas temperaturas** que reduzem a resistividade da subsuperfície.
@@ -226,8 +204,8 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 ===============================================================================
 
 
-### **Mapeamento Geofísico de Sistemas Geotérmicos**
-- A combinação desses processos torna a **extensão superficial dos sistemas geotérmicos de alta temperatura facilmente mapeável eletricamente**.
+### **Mapeamento Geofísico de Sistemas Geotermais**
+- A combinação desses processos torna a **extensão superficial dos sistemas geotermais de alta temperatura facilmente mapeável eletricamente**.
 
 ===============================================================================
 
@@ -264,217 +242,95 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 # Gradiente Geotérmico e Profundidade
-A temperatura também pode ser especificada em função do **gradiente geotérmico** (s) e da **profundidade** (z), conforme (Petrick et al., 1977):
+A temperatura também pode ser estimada em função do **gradiente geotérmico** (s) e da **profundidade** (z), conforme (Petrick et al., 1977):
   `\[
   T = sz + 300
   \]`
 
 ===============================================================================
-# Maths
 
-This is an inline $\int_a^b x^2 dx$ and $\delta g = g - \gamma$:
+# Resistividade em Fluidos Geotermais
 
-`\[ \int_a^b x^2 dx \]`
+- **Resistividades**: entre 0,01 e 10 Ω·m *(Moskowitz e Norton, 1977)*.
+- Relação direta entre **condutividade elétrica e temperatura da rocha** ou entre condutividade elétrica da rocha e seus fluidos saturantes *(Archie, 1942)*.
 
-===============================================================================
-
-<!-- .slide: data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#000000" -->
-
-<div class="quote">
-
-Big quote message with a faded background image.
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
-
-</div>
 
 ===============================================================================
 
-<!-- .slide: data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff" -->
+<!-- .slide: class="slide" data-background-color="#262626" data-background-size="contain" -->
 
-<div class="quote dark">
+# Métodos geoelétricos são indicados para a **exploração geotérmica**.
 
-Light fade of the background with a dark quote.
-
-</div>
 
 ===============================================================================
 
-# Two column layout
-
+# Manifestações Geotérmicas e Resistividade
 <div class="row">
-<div class="col">
+  <div class="col">
 
-## Theory
 
-Explain something here.
-This is how you make a FontAwesome list:
+  
+  <div class=" text-left small">
+    <ul class="text-left">
+      <li class="text-left"><b>Baixa Resistividade:</b> caracteriza a posição de muitas manifestações geotérmicas (Berktold, 1983; Wright et al., 1985; Strack et al., 1990; Martinez-Garcia, 1992)</li>
+      <li class="text-left"><b>Alterações hidrotermais:</b></li>
+      <ul class="text-left">
+        <li class="text-left">Formação de <b>argilas condutivas</b> (ex.: ilita, esmectita, montmorilonita) ou <b>densificação</b> dos sedimentos.</li>
+        <li class="text-left">Estabelecimento de uma <b>zonagem identificável de mineralogia e resistividade</b> no reservatório.</li>
+      </ul>
+    </ul>
+    </div>
 
-<ul class="fa-ul">
+  </div>
 
-<li>
-<span class="fa-li"> <i class="fa fa-lightbulb fa-fw"></i> </span>
-Make a list with
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-file-alt fa-fw"></i> </span>
-some awesome icons
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-users fa-fw"></i> </span>
-instead of bullet points
-</li>
-
-</ul>
-
-</div>
-<div class="col tiny">
-
-<img src="assets/halfspace-temperature.png">
-
-Some text explaining the figure.
-Maybe even a bit of maths like $\gamma$.
-
-</div>
+  <div class=" col tiny grid" style="  justify-content: center; align-items: center;">
+    <img src="assets/conceptual_resistivity.png">
+  </div>
 </div>
 
-<div class="footnote">
+<div class="footnote tiny">
 
-Good place for a citation or image credit.
-This one is by Leonardo Uieda (CC-BY).
+[Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
 
 </div>
+
 
 ===============================================================================
 
-<div class="r-stretch centered">
-<div>
-
-# Multiple columns
-
-Place as many `col`s as you want. They will have the same size.
-
+# Manifestações Geotérmicas e Resistividade
 <div class="row">
-<div class="col">
+  <div class="col">
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla.
 
-</div>
-<div class="col tiny">
+  
+  <div class=" text-left small">
+    <ul class="text-left">
+      <li class="text-left"><b>Zona central:</b> núcleo cilíndrico ou oval de <b>alteração sericítica ou propilítica</b> (dependendo do material hospedeiro)</li>
+      <li class="text-left"><b>Envelope de Argilas:</b> apresenta baixa resistividade e forma uma camada de selamento</li>
+      <ul>
+        <li class="text-left"><b>Notas:</b>  o reservatório geralmente tem resistividade maior que a camada de argila, mas nem sempre</li>
+      </ul>
+    </ul>
+    </div>
 
-<img src="assets/nbr_thomas_fire.jpg">
+  </div>
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla.
-
-</div>
-<div class="col tiny">
-
-<img src="assets/halfspace-temperature.png">
-
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-bla bla.
-
-</div>
+  <div class=" col tiny grid" style="  justify-content: center; align-items: center;">
+    <img src="assets/conceptual_resistivity.png">
+  </div>
 </div>
 
-</div>
-</div>
-<div class="footnote">
+<div class="footnote tiny">
 
-Images by Leonardo Uieda (CC-BY).
+[Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
 
 </div>
+
 
 ===============================================================================
 
-# This one has columns of different size
 
-<div class="row">
-<div class="col-large tiny">
-
-<img style="width: 95%;" src="assets/nbr_thomas_fire.jpg">
-
-This way the image is larger on the screen. Use it for maps or main figures.
-
-</div>
-<div class="col small">
-
-Explain what is shown on the image.
-Use the `small` class to adjust font size.
-
-Maybe include some maths:
-
-$ D\dfrac{\partial^4 w}{\partial x^4} = q - g (\rho_m - \rho_w) w $
-
-</div>
-</div>
-
-===============================================================================
-
-<div class="row">
-<div class="col tiny">
-
-<img src="assets/japan-trench-globalcmt.png">
-
-This way the image is narrow so it should be in a smaller column.
-
-</div>
-<div class="col-medium">
-
-# Column sizes
-
-Columns come in 3 sizes:
-
-1. `col`
-1. `col-medium`
-1. `col-large`
-
-These are more proportions than fixed sizes.
-
-</div>
-</div>
-
-===============================================================================
-
-# Code
-
-Example of using PyGMT to make a map:
-
-<div class="row">
-<div class="col-large fragment small">
-
-This code:
-
-```python
-import pygmt
-
-# Load built-in topography data
-grid = pygmt.datasets.load_earth_relief()
-
-fig = pygmt.Figure()
-# Pseudo-color map of topography
-fig.basemap(
-    region=[-150, -30, -60, 60],
-    projection="I-90/6i",
-    frame=True,
-)
-fig.grdimage(grid=grid, cmap="viridis")
-# Mask continents in dark grey
-fig.coast(land="#333333")
-# Display in Jupyter or pop-up window
-fig.show()
-```
-</div>
-<div class="col-medium fragment small">
-
-Makes this map 👇
-
-<img style="width: 90%" src="assets/pygmt-example.png">
-
-</div>
+<!-- .slide: data-background-image="assets/gem-methods.png" data-background-size="contain" data-background-color="#000000" -->
 
 ===============================================================================
 
