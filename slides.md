@@ -238,6 +238,10 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
+<!-- .slide: data-background-image="assets/thermal_characteristics.png" data-background-size="contain" data-background-color="#000000" -->
+
+===============================================================================
+
 # Maths
 
 This is an inline $\int_a^b x^2 dx$ and $\delta g = g - \gamma$:
