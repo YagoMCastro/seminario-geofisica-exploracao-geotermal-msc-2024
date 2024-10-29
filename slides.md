@@ -23,7 +23,7 @@ The reveal.js configuration can be found in index.html
 <div class="col-large">
 
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-17 de Setembro de 2024
+30 de Outubro de 2024
 <span style="margin: 0 20px"></span>
 Seminário  2 | Métodos Geofísicos de Exploração
 
@@ -50,7 +50,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# Energia Geotérmica
+# Energia Geotermal
 <div class="fragment text-left">
 
   **Definição:** Calor natural armazenado em rochas e água dentro da Terra.
@@ -166,7 +166,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
   - Zonas de expansão, bacias intra-arco, zonas de subducção e pontos quentes
   - **Exemplos em Zonas de Subducção:**
     - Costa oeste da América do Sul
-    - Cinturão Geotérmico do Himalaia
+    - Cinturão Geotermal do Himalaia
   - **Zonas de Rift:** *(ex.: Rift Africano Oriental, Rift do Rio Grande)*  
     - Condições para **formação de células convectivas**: rochas fraturadas e brechadas  
     - **Fonte de Calor:** regiões com vulcanismo associado
@@ -197,9 +197,9 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 # Características Específicas dos Sistemas Geotermais Associados a Ambientes Vulcânicos de Alta Temperatura
 - Alteração hidrotermal de **argila** em rochas vulcânicas recentes.
-- Presença de **águas geotérmicas levemente ácidas e salinas**.
+- Presença de **águas geotermais levemente ácidas e salinas**.
 - **Altas temperaturas** que reduzem a resistividade da subsuperfície.
-- Possível **mineralização do sistema geotérmico** *(ex.: Goff e Gardner, 1994)*.
+- Possível **mineralização do sistema geotermal** *(ex.: Goff e Gardner, 1994)*.
 
 ===============================================================================
 
@@ -241,8 +241,8 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 - **Importante**: A condução sólida em minerais torna-se irrelevante a temperaturas **abaixo de 700 °C**.
 
 ===============================================================================
-# Gradiente Geotérmico e Profundidade
-A temperatura também pode ser estimada em função do **gradiente geotérmico** (s) e da **profundidade** (z), conforme (Petrick et al., 1977):
+# Gradiente Geotermal e Profundidade
+A temperatura também pode ser estimada em função do **gradiente geotermal** (s) e da **profundidade** (z), conforme (Petrick et al., 1977):
   `\[
   T = sz + 300
   \]`
@@ -259,12 +259,12 @@ A temperatura também pode ser estimada em função do **gradiente geotérmico**
 
 <!-- .slide: class="slide" data-background-color="#262626" data-background-size="contain" -->
 
-# Métodos geoelétricos são indicados para a **exploração geotérmica**.
+# Métodos geoelétricos são indicados para a **exploração geotermal**.
 
 
 ===============================================================================
 
-# Manifestações Geotérmicas e Resistividade
+# Manifestações Geotermais e Resistividade
 <div class="row">
   <div class="col">
 
@@ -272,7 +272,7 @@ A temperatura também pode ser estimada em função do **gradiente geotérmico**
   
   <div class=" text-left small">
     <ul class="text-left">
-      <li class="text-left"><b>Baixa Resistividade:</b> caracteriza a posição de muitas manifestações geotérmicas (Berktold, 1983; Wright et al., 1985; Strack et al., 1990; Martinez-Garcia, 1992)</li>
+      <li class="text-left"><b>Baixa Resistividade:</b> caracteriza a posição de muitas manifestações geotermais (Berktold, 1983; Wright et al., 1985; Strack et al., 1990; Martinez-Garcia, 1992)</li>
       <li class="text-left"><b>Alterações hidrotermais:</b></li>
       <ul class="text-left">
         <li class="text-left">Formação de <b>argilas condutivas</b> (ex.: ilita, esmectita, montmorilonita) ou <b>densificação</b> dos sedimentos.</li>
@@ -297,7 +297,7 @@ A temperatura também pode ser estimada em função do **gradiente geotérmico**
 
 ===============================================================================
 
-# Manifestações Geotérmicas e Resistividade
+# Manifestações Geotermais e Resistividade
 <div class="row">
   <div class="col">
 
@@ -332,37 +332,71 @@ A temperatura também pode ser estimada em função do **gradiente geotérmico**
 
 <!-- .slide: data-background-image="assets/gem-methods.png" data-background-size="contain" data-background-color="#000000" -->
 
+
+
 ===============================================================================
 
-<!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
+# Principais Desafios na Prospecção Geotermal
+
+
+**Complexidade 3D dos Sistemas Geotermals**
+- **Natureza Tridimensional**: sistemas geotermais possuem uma estrutura tridimensional complexa.
+- **Alta Densidade de Pontos de Medição**: é necessário um grande número de sondagens em profundidade para gerar imagens detalhadas do subsolo.
+
+
+===============================================================================
+
+# Principais Desafios na Prospecção Geotermal
+
+**Aumento da Produtividade e Redução de Custos**
+- **Desafios em Aquisição de Dados**: desenvolver métodos para aumentar a eficiência de coleta de dados em campo.
+- **Software 3D**: há necessidade de ferramentas de software aprimoradas para modelagem tridimensional.
+- **Redução de Custos**: busca por técnicas mais econômicas para tornar a exploração geotermal viável.
+
+===============================================================================
+
+# Principais Desafios na Prospecção Geotermal
+
+**Avanços nos Sistemas Multi-Canais MT/EMAP**
+  - **Sistemas Multi-Canais**: o uso de sistemas multi-canais MT/EMAP é uma inovação importante na exploração geotermal com métodos eletromagnéticos.
+  - **Fontes Ativas Multi-Polarização**: técnicas de fonte ativa com múltiplas polarizações podem aumentar a produtividade de dados, mas exigem desenvolvimento de códigos de cálculo avançados para fontes não-plane-wave.
+
+===============================================================================
+
+# Principais Desafios na Prospecção Geotermal
+
+**Desafios Específicos em Sistemas Neovulcânicos**
+- **Mapeamento de Zonas de Alteração**: é especialmente desafiador em sistemas neovulcânicos, onde a atividade hidrotermal é intensa.
+- **Previsão de Temperaturas de Base**: uma tarefa complexa, essencial para entender o potencial energético do sistema.
+- **Dados Auxiliares para Projeto de Poços**: coletar informações para otimizar o espaçamento de poços e taxas de bombeamento.
+
+
+===============================================================================
+
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
 <div class="r-stretch centered">
 <div>
 
 <i class="fas fa-comments"></i>
 <br>
-Contact:
-<a href="https://www.leouieda.com">www.leouieda.com</a>
+Contato:
+<a href="yagomcastro@usp.br">yagomcastro@usp.br</a>
 
 <i class="fab fa-github"></i>
 <br>
-Source code for this presentation:
+Código-fonte para esta apresentação:
 <br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+[github.com/YagoMCastro/tectonica-litosfera-seminario1-msc-2024](https://github.com/YagoMCastro/tectonica-litosfera-seminario1-msc-2024)
 
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 <br>
-Unless otherwise noted,
-the contents of this presentation are
-licensed under the
+
+Salvo indicação em contrário,
+o conteúdo desta apresentação está
+licenciado sob a
 <br>
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 </div>
-</div>
-<div class="footnote-left dark">
-
-The background image is a Landsat 9 scene of the city of São Paulo, Brazil,
-showing the USP campus in the center.
-
 </div>
