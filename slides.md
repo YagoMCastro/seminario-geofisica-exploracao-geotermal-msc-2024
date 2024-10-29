@@ -387,7 +387,7 @@ Contato:
 <br>
 Código-fonte para esta apresentação:
 <br>
-[github.com/YagoMCastro/tectonica-litosfera-seminario1-msc-2024](https://github.com/YagoMCastro/tectonica-litosfera-seminario1-msc-2024)
+[github.com/YagoMCastro/seminario-geofisica-exploracao-geotermal-msc-2024](https://github.com/YagoMCastro/seminario-geofisica-exploracao-geotermal-msc-2024)
 
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 <br>
