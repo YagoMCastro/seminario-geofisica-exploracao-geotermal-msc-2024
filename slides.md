@@ -263,7 +263,13 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 - **Importante**: A condução sólida em minerais torna-se irrelevante a temperaturas **abaixo de 700 °C**.
 
 ===============================================================================
+# Gradiente Geotérmico e Profundidade
+A temperatura também pode ser especificada em função do **gradiente geotérmico** (s) e da **profundidade** (z), conforme (Petrick et al., 1977):
+  `\[
+  T = sz + 300
+  \]`
 
+===============================================================================
 # Maths
 
 This is an inline $\int_a^b x^2 dx$ and $\delta g = g - \gamma$:
