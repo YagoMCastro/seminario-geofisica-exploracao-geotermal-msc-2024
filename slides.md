@@ -106,52 +106,135 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
+# Configuração Geológica dos Sistemas Geotermais
+
+<div class="row">
+  <div class="col">
+    <div class=" text-left small">
+        <ul class="text-left">
+        <li> Em alguns recursos geotérmicos de alta temperatura associados ao vulcanismo, <b>não há uma camada selamento</b></li>
+        <ul>
+          <li>Os reservatórios são sistemas ativos, com entrada e saída de calor e fluido, mantendo um <b>quase-equilíbrio estático</b> com o ambiente</li>
+        </ul>
+    </div>
+  </div>
+  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
+    <img src="assets//geothermal-system.png">
+  </div>
+</div>
+
+<div class="footnote tiny">
+
+[Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
+
+</div>
+
+===============================================================================
+# Configuração Geológica dos Sistemas Geotermais
+
+<div class="row">
+  <div class="col">
+  <div class=" text-left small">
+      <ul class="text-left">
+        <li> A <b>alteração argílica</b> geralmente encontrada na superfície dos reservatórios tende a reduzir a permeabilidade, mas <b>não impede a circulação completa do sistema</b></li>
+        <li> A maioria dos sistemas geotérmicos dominados por líquidos de alta temperatura é caracterizada por uma circulação convectiva única. <b>O fluido meteórico não recircula</b> (T.G. Caldwell, comunicação pessoal, 2001).
+      </ul>
+
+  </div>
+
+  </div>
+
+  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
+    <img src="assets//geothermal-system.png">
+  </div>
+</div>
+
+<div class="footnote tiny">
+  [Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
+</div>
+
+===============================================================================
 # Tipos de Recursos Geotermais
 
 
   <ul class="text-left">
     <li class="text-left">Recursos Hospedados em Sedimentos Não Vulcânicos</li>
-    <li class="text-left">Recursos Associados a Magmas/Vulcanismo**</li>
+    <li class="text-left">Recursos Associados a Magmas/Vulcanismo</li>
   </ul>
 
 ===============================================================================
 
-<!-- .slide: data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-color="#000000" -->
+# Recursos Geotermais Não Vulcânicos
 
-<div class="r-stretch">
-</div>
-<div class="footnote-center dark">
-
-Centered footnote with a dark background on a slide with a background.
-<br>
-Set the size to `contain` to make sure aspect ratios are preserved and the
-background isn't cropped.
-<br>
-It's a good idea to add alt-text to this footnote if the background is
-important.
-
-</div>
+- **Calor Redistribuído em Aquíferos Regionais** *(Muffler, 1975)*
+  - **Tipos de Reservatórios Geotermais:**
+    1. **Ambientes de baixa porosidade e alta condutividade térmica**
+    2. **Ambientes de baixa porosidade com circulação de água meteórica** – Circulação profunda de água ao longo de falhas e fraturas
+    3. **Ambientes de alta porosidade e convectivos** – Pressão hidrostática
+    4. **Recursos geopressurizados** – Ambientes convectivos com pressão acima da hidrostática
 
 ===============================================================================
 
-<!-- .slide: data-background-video="assets/brasil-sao-paulo-rio.mp4" data-background-size="contain" data-background-color="#000000" -->
+# **Recursos Geotermais Vulcânicos**
+- **Relacionados ao Vulcanismo ou Intrusões Ígneas** *(Muffler, 1975)*
+  - **Tipos de Recursos:**
+    - Sistemas convectivos hidrotermais
+    - Magmas ou fusões parciais
+    - Rochas quentes e secas
 
-<div class="r-stretch">
-</div>
-<div class="footnote">
-
-This is how you use a video background.
-The video auto starts when flipping to this slide.
-
-</div>
+===============================================================================
+# **Distribuição Geográfica dos Recursos Geotermais**
+- **Regiões com Potencial para Recursos geotermais Relacionados ao Magma:**
+  - Zonas de expansão, bacias intra-arco, zonas de subducção e pontos quentes
+  - **Exemplos em Zonas de Subducção:**
+    - Costa oeste da América do Sul
+    - Cinturão Geotérmico do Himalaia
+  - **Zonas de Rift:** *(ex.: Rift Africano Oriental, Rift do Rio Grande)*  
+    - Condições para **formação de células convectivas**: rochas fraturadas e brechadas  
+    - **Fonte de Calor:** regiões com vulcanismo associado
 
 ===============================================================================
 
-<!-- .slide: class="slide-transition" -->
+# **Melhorias de Reservatório por Falhamentos**
+- **Falhas subsidiárias e dinâmicas de rifteamento** *(Warner, 1975)*:
+  - Direcionam águas meteóricas para as fontes de calor
+  - Aumentam a permeabilidade com fraturamento contínuo e rotação das rochas do reservatório
 
-# A transition slide <br> with a large title
 
-...and some text.
+===============================================================================
+
+# Efeitos do Transporte de Fluido e Calor
+1. **Lixiviação de Minerais Primários**:Formação de **assembléias minerais secundárias** estáveis no ambiente hidrotermal resultante.
+
+2. **Modificação das Propriedades Físicas das Rochas do Reservatório**
+   - **Permeabilidade** alterada especialmente por:
+     - **Alteração argílica**: devido a altas temperaturas e fluidos ácidos
+     - **Silicificação**: precipitação de sílica conforme o calor é removido dos fluidos ascendentes
+     - **Densificação**: metamorfismo hidrotermal de baixa intensidade
+
+3. **Formação de Estruturas de Descarga na Superfície**: fumarolas, fontes termais e áreas de solo fumegante
+
+
+===============================================================================
+
+# Características Específicas dos Sistemas Geotérmicos Associados a Ambientes Vulcânicos de Alta Temperatura
+- Alteração hidrotermal de **argila** em rochas vulcânicas recentes.
+- Presença de **águas geotérmicas levemente ácidas e salinas**.
+- **Altas temperaturas** que reduzem a resistividade da subsuperfície.
+- Possível **mineralização do sistema geotérmico** *(ex.: Goff e Gardner, 1994)*.
+
+===============================================================================
+
+
+### **Mapeamento Geofísico de Sistemas Geotérmicos**
+- A combinação desses processos torna a **extensão superficial dos sistemas geotérmicos de alta temperatura facilmente mapeável eletricamente**.
+
+===============================================================================
+
+<!-- .slide: class="slide" data-background-color="#262626" data-background-size="contain" -->
+
+# RESISTIVIDADE PARA A CARACTERIZAÇÃO DE RECURSOS GEOTERMAIS
+
 
 ===============================================================================
 
