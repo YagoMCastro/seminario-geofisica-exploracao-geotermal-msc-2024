@@ -12,7 +12,7 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  Recursos Geotérmicos | Compreendendo o Cenário Geológico e Técnicas de Exploração
+  Recursos Geotérmais
 </h1>
 <p id="talk-authors">
   <a>Yago M Castro</a>
@@ -50,7 +50,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# Introdução à Energia Geotérmica
+# Energia Geotérmica
 <div class="fragment text-left">
 
   **Definição:** Calor natural armazenado em rochas e água dentro da Terra.
@@ -63,43 +63,56 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 </div>
 
-===============================================================================
-
-<div class="r-stretch">
-
-# Some facts
-
-About a certain topic.
-
-</div>
-<div class="footnote">
-
-This is a little footnote.
-Use it to add notes, citations, [links](https://www.leouieda.com/), etc.
-<br>
-Notice how the `div` above uses `r-stretch` to push this note to the bottom.
-
-</div>
+  <div class="fragment text-left">
+    <ul class="text-left">
+      <li class="text-left"><b>Ambientes Geológicos:</b></li>
+      <ul class="text-left">
+        <li class="text-left">Tectonismo e vulcanismo jovens</li>
+        <li class="text-left">Áreas ao longo de margens ativas de placas e pontos quentes intraplaca</li>
+        </ul>
+    </ul>
+  </div>
 
 ===============================================================================
 
-<div class="r-stretch centered">
-<div>
+# Configuração Geológica dos Sistemas Geotermais
 
-# Even more facts!
+<div class="row">
+  <div class="col">
 
-About many different things.
+
+  
+  <div class=" text-left small">
+      <ul class="text-left">
+        <li class="text-left"><b>Componentes:</b> Fonte de calor, água subterrânea para transporte de calor, reservatório selado</li>
+        <li class="text-left"><b>Características Associadas:</b> Controles tectônicos</li>
+      </ul>
+
+  </div>
+
+  </div>
+
+  <div class=" col-large tiny grid" style="  justify-content: center; align-items: center;">
+    <img src="assets//geothermal-system.png">
+  </div>
+</div>
+
+<div class="footnote tiny">
+
+[Meju (2002)](https://link.springer.com/article/10.1023/A:1015052419222)
+
 
 </div>
-</div>
-<div class="footnote-left">
 
-Left aligned footnote.
-Use `centered` on the `div` above to vertically center content.
-<br>
-Need to put another `div` inside of it as well.
+===============================================================================
 
-</div>
+# Tipos de Recursos Geotermais
+
+
+  <ul class="text-left">
+    <li class="text-left">Recursos Hospedados em Sedimentos Não Vulcânicos</li>
+    <li class="text-left">Recursos Associados a Magmas/Vulcanismo**</li>
+  </ul>
 
 ===============================================================================
 
