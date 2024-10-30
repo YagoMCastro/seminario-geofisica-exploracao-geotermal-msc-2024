@@ -12,7 +12,7 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  Recursos Geotérmais
+  Recursos Geotermais
 </h1>
 <p id="talk-authors">
   <a>Yago M Castro</a>
@@ -153,7 +153,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# **Recursos Geotermais Vulcânicos**
+# Recursos Geotermais Vulcânicos
 - **Relacionados ao Vulcanismo ou Intrusões Ígneas** *(Muffler, 1975)*
   - **Tipos de Recursos:**
     - Sistemas convectivos hidrotermais
@@ -161,7 +161,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
     - Rochas quentes e secas
 
 ===============================================================================
-# **Distribuição Geográfica dos Recursos Geotermais**
+# Distribuição Geográfica dos Recursos Geotermais
 - **Regiões com Potencial para Recursos geotermais Relacionados ao Magma:**
   - Zonas de expansão, bacias intra-arco, zonas de subducção e pontos quentes
   - **Exemplos em Zonas de Subducção:**
