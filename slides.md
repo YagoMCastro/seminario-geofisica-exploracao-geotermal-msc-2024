@@ -173,7 +173,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# **Melhorias de Reservatório por Falhamentos**
+# Melhorias de Reservatório por Falhamentos
 - **Falhas subsidiárias e dinâmicas de rifteamento** *(Warner, 1975)*:
   - Direcionam águas meteóricas para as fontes de calor
   - Aumentam a permeabilidade com fraturamento contínuo e rotação das rochas do reservatório
@@ -204,7 +204,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 ===============================================================================
 
 
-### **Mapeamento Geofísico de Sistemas Geotermais**
+# Mapeamento Geofísico de Sistemas Geotermais
 - A combinação desses processos torna a **extensão superficial dos sistemas geotermais de alta temperatura facilmente mapeável eletricamente**.
 
 ===============================================================================
@@ -259,7 +259,7 @@ A temperatura também pode ser estimada em função do **gradiente geotermal** (
 
 <!-- .slide: class="slide" data-background-color="#262626" data-background-size="contain" -->
 
-# Métodos geoelétricos são indicados para a **exploração geotermal**.
+# Métodos GEM são indicados para a **exploração geotermal**.
 
 
 ===============================================================================
