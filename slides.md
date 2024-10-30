@@ -267,18 +267,15 @@ A temperatura também pode ser estimada em função do **gradiente geotermal** (
 # Manifestações Geotermais e Resistividade
 <div class="row">
   <div class="col">
-
-
-  
-  <div class=" text-left small">
-    <ul class="text-left">
-      <li class="text-left"><b>Baixa Resistividade:</b> caracteriza a posição de muitas manifestações geotermais (Berktold, 1983; Wright et al., 1985; Strack et al., 1990; Martinez-Garcia, 1992)</li>
-      <li class="text-left"><b>Alterações hidrotermais:</b></li>
+    <div class=" text-left small">
       <ul class="text-left">
-        <li class="text-left">Formação de <b>argilas condutivas</b> (ex.: ilita, esmectita, montmorilonita) ou <b>densificação</b> dos sedimentos.</li>
-        <li class="text-left">Estabelecimento de uma <b>zonagem identificável de mineralogia e resistividade</b> no reservatório.</li>
+        <li class="text-left"><b>Baixa Resistividade:</b> caracteriza a posição de muitas manifestações geotermais (Berktold, 1983; Wright et al., 1985; Strack et al., 1990; Martinez-Garcia, 1992)</li>
+        <li class="text-left"><b>Alterações hidrotermais:</b></li>
+        <ul class="text-left">
+          <li class="text-left">Formação de <b>argilas condutivas</b> (ex.: ilita, esmectita, montmorilonita) ou <b>densificação</b> dos sedimentos.</li>
+          <li class="text-left">Estabelecimento de uma <b>zonagem identificável de mineralogia e resistividade</b> no reservatório.</li>
+        </ul>
       </ul>
-    </ul>
     </div>
 
   </div>
@@ -300,19 +297,15 @@ A temperatura também pode ser estimada em função do **gradiente geotermal** (
 # Manifestações Geotermais e Resistividade
 <div class="row">
   <div class="col">
-
-
-  
-  <div class=" text-left small">
-    <ul class="text-left">
-      <li class="text-left"><b>Zona central:</b> núcleo cilíndrico ou oval de <b>alteração sericítica ou propilítica</b> (dependendo do material hospedeiro)</li>
-      <li class="text-left"><b>Envelope de Argilas:</b> apresenta baixa resistividade e forma uma camada de selamento</li>
-      <ul>
-        <li class="text-left"><b>Notas:</b>  o reservatório geralmente tem resistividade maior que a camada de argila, mas nem sempre</li>
+    <div class=" text-left small">
+      <ul class="text-left">
+        <li class="text-left"><b>Zona central:</b> núcleo cilíndrico ou oval de <b>alteração sericítica ou propilítica</b> (dependendo do material hospedeiro)</li>
+        <li class="text-left"><b>Envelope de Argilas:</b> apresenta baixa resistividade e forma uma camada de selamento</li>
+        <ul>
+          <li class="text-left"><b>Notas:</b>  o reservatório geralmente tem resistividade maior que a camada de argila, mas nem sempre</li>
+        </ul>
       </ul>
-    </ul>
     </div>
-
   </div>
 
   <div class=" col tiny grid" style="  justify-content: center; align-items: center;">
@@ -333,6 +326,26 @@ A temperatura também pode ser estimada em função do **gradiente geotermal** (
 <!-- .slide: data-background-image="assets/gem-methods.png" data-background-size="contain" data-background-color="#000000" -->
 
 
+
+===============================================================================
+
+## Campo Geotérmico de Rehai - Modelo de Resistividade 2D
+
+<ul class="text-left">
+  <li class="text-left"><b>Localização:</b> Campo de Rehai, sul da China, zona de colisão Indo-Eurasiana</li>
+  <li class="text-left"><b>Vulcanismo:</b> Área de vulcanismo quaternário, com atividade geotérmica associada</li>
+  <li class="text-left"><b>Modelos 2D de Resistividade:</b></li>
+  <ul>
+    <li class="text-left">Mostram variações laterais acentuadas na resistividade do subsolo</li>
+    <li class="text-left">Destaque para uma zona anômala de baixa resistividade (menor que 10 Ωm), com formato de cenoura e 2 km de largura, entre 6-17 km de profundidade.</li>
+    <li class="text-left">Interpretada como a <b>fonte de calor magmático</b> do sistema</li>
+  </ul>
+  <li class="text-left"><b>Desafios Práticos:</b> Identificar com precisão as áreas de interesse (reservatórios geotérmicos) usando métodos GEM, especialmente para alvos como água subterrânea e alterações geológicas</li>
+</ul>
+
+===============================================================================
+
+<!-- .slide: data-background-image="assets/2d-mt-models.png" data-background-size="contain" data-background-color="#000000" -->
 
 ===============================================================================
 
